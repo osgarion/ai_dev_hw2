@@ -1,0 +1,10 @@
+.DS_Store
+.env
+**/.venv
+__pycache__/
+node_modules/
+
+# HW-10 local artifacts
+HW-10/.venv/
+HW-10/test/.venv/
+HW-10/chroma_db/
